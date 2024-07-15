@@ -1,4 +1,4 @@
-# Reinforcement Learning for CartPole
+# CartPole
 
 This repository contains a TensorFlow implementation of a reinforcement learning algorithm for solving the CartPole environment from OpenAI Gym/Gymnasium.
 
